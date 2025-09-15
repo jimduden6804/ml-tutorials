@@ -21,4 +21,4 @@
 | 06 Tabellarische Daten | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/jimduden6804/ml-tutorials/blob/main/06_tabular.ipynb) |
 | 07 Image Interpretation CAM  | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/jimduden6804/ml-tutorials/blob/main/07_fastai_pets-CAM.ipynb)  |
 | 08 Sentence Embeddings | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/jimduden6804/ml-tutorials/blob/main/08_sentence_embeddings.ipynb) |
-| 09 Image Embeddings | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/floleuerer/fastai-tutorials/blob/main/fastai_tensorboard_projector.ipynb) |
+| 09 Image Embeddings | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/jimduden6804/fastai-tutorials/blob/main/fastai_tensorboard_projector.ipynb) |
